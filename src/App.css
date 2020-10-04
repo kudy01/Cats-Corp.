@@ -1,0 +1,16 @@
+.App {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.CardList {
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
